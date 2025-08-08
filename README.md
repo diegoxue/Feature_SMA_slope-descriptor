@@ -1,5 +1,6 @@
 # slope-descriptor
-A knowledge-based materials descriptor for compositional dependence of phase transformation in NiTi shape memory alloys
+Code for
+Li, C., Liang, Q., Zhou, Y. & Xue, D. A knowledge‐based materials descriptor for compositional dependence of phase transformation in NiTi shape memory alloys. Materials Genome Engineering Advances (2024). https://doi.org:10.1002/mgea.72
 
 1.0  slope-get, Extracting features from domain knowledge，Δτ;
 
